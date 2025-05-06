@@ -32,9 +32,9 @@
 
 ---
 
-### 🔗 Connect with me
+### 🔗 How to reach me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dannzini"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:bruno.dannzini@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
