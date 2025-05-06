@@ -6,17 +6,17 @@
 
 ### 📚 Stack Overview
 
-#### 🔧 Back-End Main Focus
+#### 💻 Back-End Main Focus
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
-#### 📉 Back-End Secondary
+#### 🖥️ Back-End Secondary
 <p>
   <img src="https://skillicons.dev/icons?i=c,python,spring,dotnet" />
 </p>
 
-#### 💄 Databases
+#### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="40"/>
@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=postman,figma,linux,vscode,visualstudio,idea,pycharm,eclipse" />
 </p>
 
-#### 🚀 Integrations & DevOps
+#### ⚙️ Integrations & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,github,aws,azure" />
 </p>
