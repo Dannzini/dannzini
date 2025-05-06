@@ -46,14 +46,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dannzini&theme=dracula&margin-w=15" />
-</p>
-
----
-
 ### 🔗 How to reach me
 
 <p align="center">
