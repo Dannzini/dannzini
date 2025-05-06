@@ -13,26 +13,23 @@
 
 #### 📉 Back-End Secondary
 <p>
-  <img src="https://skillicons.dev/icons?i=csharp,python,spring,dotnet" />
+  <img src="https://skillicons.dev/icons?i=c,python,spring,dotnet" />
 </p>
 
 #### 💄 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-  <img src="https://img.shields.io/badge/sqlserver-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="40"/>
 </p>
 
 #### 🛠️ Tools & IDEs
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,figma,linux,vscode,pycharm,eclipse,intellij" />
-  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postman,figma,linux,vscode,visualstudio,idea,pycharm,eclipse" />
 </p>
 
 #### 🚀 Integrations & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,github,aws,azure" />
-  <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 
 ---
