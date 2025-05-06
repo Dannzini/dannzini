@@ -4,7 +4,7 @@
 
 ---
 
-### 📚 Stack Overview
+### 📚 Tech Stack
 
 #### 💻 Back-End Main Focus
 <p>
