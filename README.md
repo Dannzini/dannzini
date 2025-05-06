@@ -35,6 +35,6 @@
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/dannzini"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
