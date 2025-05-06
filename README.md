@@ -13,26 +13,26 @@
 
 #### 📉 Back-End Secondary
 <p>
-  <img src="https://skillicons.dev/icons?i=csharp,python,dotnet" />
+  <img src="https://skillicons.dev/icons?i=csharp,python,spring,dotnet" />
 </p>
 
-#### 🗄️ Databases
+#### 💄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqlserver-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 #### 🛠️ Tools & IDEs
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,figma,linux,intellij,vscode,pycharm,eclipse" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=postman,figma,linux,vscode,pycharm,eclipse,intellij" />
+  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 #### 🚀 Integrations & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,docker,github,aws,azure" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 
 ---
@@ -62,6 +62,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dannzini"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:bruno.dannzini@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
